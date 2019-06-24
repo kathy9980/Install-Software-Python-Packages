@@ -25,7 +25,5 @@ If you get this erroor, you should first follow the instruction on [Getting Star
       > However, this variable only applies to your current shell session, so if you open a new session, set the variable again.
       
       **So, a better way is to set your ***GOOGLE_APPLICATION_CREDENTIALS*** by adding a new variable form "This PC/Property"**
-    
-[Top]（#readme）
 
-！[]（https://github.com/a.jpg）
+![Google_Cloud_API_Environment_Variable](https://github.com/kathy9980/Install-Software-Python-Packages/blob/master/Google_Cloud_API_Environment_Variable.png?raw=true)
