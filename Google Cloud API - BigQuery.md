@@ -27,10 +27,13 @@ If you get this erroor, you should first follow the instruction on [Getting Star
       **So, a better way is to set your ***GOOGLE_APPLICATION_CREDENTIALS*** by adding a new variable form "This PC/Property"**
 
 
-<div align=center><img src="https://github.com/kathy9980/Install-Software-Python-Packages/blob/master/Google_Cloud_API_Environment_Variable.png?" width = "700" height = "200" alt="Google_Cloud_API_Environment_Variable">
+<div align=center><img src="https://github.com/kathy9980/Install-Software-Python-Packages/blob/master/Google_Cloud_API_Environment_Variable.png?" width = "700" height = "200" alt="Google_Cloud_API_Environment_Variable"><div align=center/>
 
-4. Examine in Python
+4. Finally, Run following code in Python
 ```
     from google.cloud import bigquery   
     client = bigquery.Client()
 ```
+
+
+Hope this will be helpful! ;-)
