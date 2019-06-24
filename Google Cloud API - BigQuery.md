@@ -26,4 +26,5 @@ If you get this erroor, you should first follow the instruction on [Getting Star
       
       **So, a better way is to set your ***GOOGLE_APPLICATION_CREDENTIALS*** by adding a new variable form "This PC/Property"**
 
-![Google_Cloud_API_Environment_Variable](https://github.com/kathy9980/Install-Software-Python-Packages/blob/master/Google_Cloud_API_Environment_Variable.png?raw=true)
+
+ <img src="https://github.com/kathy9980/Install-Software-Python-Packages/blob/master/Google_Cloud_API_Environment_Variable.png?" width = "700" height = "200" alt="Google_Cloud_API_Environment_Variable" align=center />
