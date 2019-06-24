@@ -31,8 +31,8 @@ If you get this erroor, you should first follow the instruction on [Getting Star
 
 4. Finally, Run following code in Python
 ```
-    from google.cloud import bigquery   
-    client = bigquery.Client()
+from google.cloud import bigquery   
+client = bigquery.Client()
 ```
 
 
